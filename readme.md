@@ -17,7 +17,8 @@
         con -> en: pin
         en -> con: pin validado
         @enduml
-    ![alt text](image.png)
+    
+![image](https://github.com/user-attachments/assets/bab8fce4-9da0-49da-a065-9471ebd4b345)
 
 #### Interpretación del programa.
 - Usuario introduce la tarjeta.
@@ -42,7 +43,8 @@
         en -> con: cantidad aceptada
         @enduml
         
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/8d872930-3c11-4212-a775-bc0a30c2007e)
+
 
 #### Interpretación del programa.
 - Usuario introduce la cantidad a sacar.
